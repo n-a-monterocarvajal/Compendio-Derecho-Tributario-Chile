@@ -1,0 +1,2999 @@
+{
+  "schema_version": 1,
+  "actualizado_utc": "2026-08-05T21:02:40+00:00",
+  "fuentes": {
+    "6374": {
+      "id_norma": "6374",
+      "marcador": "Decreto Ley N.º 830, de 1974, del Ministerio de Hacienda, que aprueba el Código Tributario.",
+      "titulo_bcn": "CODIGO TRIBUTARIO",
+      "vigencia_actual": {
+        "desde": "2025-07-11",
+        "hasta": "",
+        "tipo": "2",
+        "descripcion": "Última Versión"
+      },
+      "vigencias": [
+        {
+          "desde": "1975-01-01",
+          "hasta": "1975-02-17",
+          "tipo": "0",
+          "descripcion": "Texto Original"
+        },
+        {
+          "desde": "1975-02-18",
+          "hasta": "1975-02-28",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1975-03-01",
+          "hasta": "1975-05-14",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1975-05-15",
+          "hasta": "1975-05-15",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1975-05-16",
+          "hasta": "1975-11-07",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1975-11-08",
+          "hasta": "1975-11-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1975-12-01",
+          "hasta": "1976-07-08",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1976-07-09",
+          "hasta": "1976-07-28",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1976-07-29",
+          "hasta": "1976-07-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1976-08-01",
+          "hasta": "1976-12-02",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1976-12-03",
+          "hasta": "1976-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1977-01-01",
+          "hasta": "1977-05-13",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1977-05-14",
+          "hasta": "1977-10-28",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1977-10-29",
+          "hasta": "1978-08-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1978-08-31",
+          "hasta": "1978-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1979-01-01",
+          "hasta": "1979-06-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1979-07-01",
+          "hasta": "1979-09-28",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1979-09-29",
+          "hasta": "1980-07-01",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1980-07-02",
+          "hasta": "1980-10-14",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1980-10-15",
+          "hasta": "1981-02-11",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1981-02-12",
+          "hasta": "1981-09-13",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1981-09-14",
+          "hasta": "1982-03-25",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1982-03-26",
+          "hasta": "1982-10-27",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1982-10-28",
+          "hasta": "1982-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1983-01-01",
+          "hasta": "1983-07-14",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1983-07-15",
+          "hasta": "1983-11-22",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1983-11-23",
+          "hasta": "1985-12-27",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1985-12-28",
+          "hasta": "1987-08-16",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1987-08-17",
+          "hasta": "1987-09-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1987-10-01",
+          "hasta": "1987-12-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1987-12-31",
+          "hasta": "1988-12-28",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1988-12-29",
+          "hasta": "1990-06-27",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1990-06-28",
+          "hasta": "1991-02-10",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1991-02-11",
+          "hasta": "1991-12-29",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1991-12-30",
+          "hasta": "1992-08-12",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1992-08-13",
+          "hasta": "1993-08-03",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1993-08-04",
+          "hasta": "1995-08-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1995-09-01",
+          "hasta": "1997-07-29",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1997-07-30",
+          "hasta": "1998-07-28",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1998-07-29",
+          "hasta": "2000-12-19",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2000-12-20",
+          "hasta": "2001-06-18",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2001-06-19",
+          "hasta": "2002-05-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2002-05-31",
+          "hasta": "2003-08-05",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2003-08-06",
+          "hasta": "2003-10-09",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2003-10-10",
+          "hasta": "2004-05-10",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2004-05-11",
+          "hasta": "2005-06-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2005-07-01",
+          "hasta": "2005-09-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2005-10-01",
+          "hasta": "2006-10-17",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2006-10-18",
+          "hasta": "2007-03-28",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2007-03-29",
+          "hasta": "2007-09-28",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2007-09-29",
+          "hasta": "2008-05-01",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2008-05-02",
+          "hasta": "2009-01-26",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2009-01-27",
+          "hasta": "2009-04-27",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2009-04-28",
+          "hasta": "2009-12-04",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2009-12-05",
+          "hasta": "2009-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2010-01-01",
+          "hasta": "2010-02-18",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2010-02-19",
+          "hasta": "2010-04-29",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2010-04-30",
+          "hasta": "2011-01-26",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2011-01-27",
+          "hasta": "2011-03-27",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2011-03-28",
+          "hasta": "2012-09-26",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2012-09-27",
+          "hasta": "2013-01-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2013-02-01",
+          "hasta": "2013-12-12",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2013-12-13",
+          "hasta": "2014-01-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2014-01-31",
+          "hasta": "2014-03-04",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2014-03-05",
+          "hasta": "2014-05-27",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2014-05-28",
+          "hasta": "2014-09-03",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2014-09-04",
+          "hasta": "2014-10-09",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2014-10-10",
+          "hasta": "2014-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2015-01-01",
+          "hasta": "2015-09-29",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2015-09-30",
+          "hasta": "2016-01-04",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2016-01-05",
+          "hasta": "2016-02-07",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2016-02-08",
+          "hasta": "2016-07-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2016-08-01",
+          "hasta": "2017-03-12",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2017-03-13",
+          "hasta": "2017-10-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2017-11-01",
+          "hasta": "2017-11-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2017-12-01",
+          "hasta": "2018-11-01",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2018-11-02",
+          "hasta": "2019-01-11",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2019-01-12",
+          "hasta": "2020-02-29",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2020-03-01",
+          "hasta": "2020-05-24",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2020-05-25",
+          "hasta": "2022-02-11",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2022-02-12",
+          "hasta": "2022-06-29",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2022-06-30",
+          "hasta": "2023-12-29",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2023-12-30",
+          "hasta": "2024-02-04",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2024-02-05",
+          "hasta": "2024-10-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2024-11-01",
+          "hasta": "2024-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2025-01-01",
+          "hasta": "2025-01-23",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2025-01-24",
+          "hasta": "2025-04-24",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2025-04-25",
+          "hasta": "2025-04-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2025-05-01",
+          "hasta": "2025-06-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2025-07-01",
+          "hasta": "2025-07-10",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2025-07-11",
+          "hasta": "",
+          "tipo": "2",
+          "descripcion": "Última Versión"
+        }
+      ],
+      "fecha_version": "2009-01-27",
+      "fecha_actualizacion_texto": "2009-01-27",
+      "eventos_pendientes": [],
+      "diferido": {
+        "presente": false,
+        "alertas": []
+      },
+      "huella": "a38ebd9f36dda8dc51a7445c335a5b60dfa0a428087aafa4a24ac11f9643b760"
+    },
+    "6368": {
+      "id_norma": "6368",
+      "marcador": "Decreto Ley N.º 824, de 1974, del Ministerio de Hacienda, que aprueba el texto de la Ley sobre Impuesto a la Renta.",
+      "titulo_bcn": "APRUEBA TEXTO QUE INDICA DE LA LEY SOBRE IMPUESTO A LA RENTA",
+      "vigencia_actual": {
+        "desde": "2026-03-27",
+        "hasta": "",
+        "tipo": "2",
+        "descripcion": "Última Versión"
+      },
+      "vigencias": [
+        {
+          "desde": "1974-12-31",
+          "hasta": "1974-12-31",
+          "tipo": "0",
+          "descripcion": "Texto Original"
+        },
+        {
+          "desde": "1975-01-01",
+          "hasta": "1975-02-17",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1975-02-18",
+          "hasta": "1975-02-28",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1975-03-01",
+          "hasta": "1975-05-14",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1975-05-15",
+          "hasta": "1975-11-07",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1975-11-08",
+          "hasta": "1976-03-05",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1976-03-06",
+          "hasta": "1976-07-28",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1976-07-29",
+          "hasta": "1976-12-02",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1976-12-03",
+          "hasta": "1977-03-01",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1977-03-02",
+          "hasta": "1978-08-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1978-08-31",
+          "hasta": "1978-11-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1978-12-01",
+          "hasta": "1980-07-24",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1980-07-25",
+          "hasta": "1981-06-26",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1981-06-27",
+          "hasta": "1981-09-24",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1981-09-25",
+          "hasta": "1984-01-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1984-01-31",
+          "hasta": "1985-05-08",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1985-05-09",
+          "hasta": "1986-01-03",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1986-01-04",
+          "hasta": "1987-12-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1987-12-31",
+          "hasta": "1989-01-13",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1989-01-14",
+          "hasta": "1989-10-09",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1989-10-10",
+          "hasta": "1989-12-29",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1989-12-30",
+          "hasta": "1990-01-08",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1990-01-09",
+          "hasta": "1990-03-09",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1990-03-10",
+          "hasta": "1990-06-27",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1990-06-28",
+          "hasta": "1992-08-12",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1992-08-13",
+          "hasta": "1993-06-14",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1993-06-15",
+          "hasta": "1993-08-12",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1993-08-13",
+          "hasta": "1993-09-14",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1993-09-15",
+          "hasta": "1993-12-05",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1993-12-06",
+          "hasta": "1994-11-16",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1994-11-17",
+          "hasta": "1995-05-29",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1995-05-30",
+          "hasta": "1995-08-03",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1995-08-04",
+          "hasta": "1995-08-04",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1995-08-05",
+          "hasta": "1996-07-12",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1996-07-13",
+          "hasta": "1996-07-13",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1996-07-14",
+          "hasta": "1996-12-02",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1996-12-03",
+          "hasta": "1997-02-16",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1997-02-17",
+          "hasta": "1997-07-29",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1997-07-30",
+          "hasta": "1998-02-10",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1998-02-11",
+          "hasta": "1998-02-20",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1998-02-21",
+          "hasta": "1998-02-21",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1998-02-22",
+          "hasta": "1998-07-28",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1998-07-29",
+          "hasta": "1999-01-17",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1999-01-18",
+          "hasta": "1999-02-11",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1999-02-12",
+          "hasta": "2000-02-17",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2000-02-18",
+          "hasta": "2000-12-19",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2000-12-20",
+          "hasta": "2001-02-15",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2001-02-16",
+          "hasta": "2001-05-04",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2001-05-05",
+          "hasta": "2001-06-18",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2001-06-19",
+          "hasta": "2001-09-27",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2001-09-28",
+          "hasta": "2001-11-06",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2001-11-07",
+          "hasta": "2002-02-08",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2002-02-09",
+          "hasta": "2002-04-24",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2002-04-25",
+          "hasta": "2002-11-22",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2002-11-23",
+          "hasta": "2003-02-06",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2003-02-07",
+          "hasta": "2003-06-23",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2003-06-24",
+          "hasta": "2004-02-08",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2004-02-09",
+          "hasta": "2005-02-13",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2005-02-14",
+          "hasta": "2005-06-15",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2005-06-16",
+          "hasta": "2006-02-09",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2006-02-10",
+          "hasta": "2006-10-11",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2006-10-12",
+          "hasta": "2007-01-08",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2007-01-09",
+          "hasta": "2007-02-14",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2007-02-15",
+          "hasta": "2007-02-15",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2007-02-16",
+          "hasta": "2007-02-20",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2007-02-21",
+          "hasta": "2007-06-04",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2007-06-05",
+          "hasta": "2007-10-02",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2007-10-03",
+          "hasta": "2008-02-07",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2008-02-08",
+          "hasta": "2008-03-16",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2008-03-17",
+          "hasta": "2008-05-01",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2008-05-02",
+          "hasta": "2008-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2009-01-01",
+          "hasta": "2009-01-28",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2009-01-29",
+          "hasta": "2009-02-05",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2009-02-06",
+          "hasta": "2009-04-27",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2009-04-28",
+          "hasta": "2010-02-12",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2010-02-13",
+          "hasta": "2010-02-21",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2010-02-22",
+          "hasta": "2010-07-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2010-07-31",
+          "hasta": "2010-09-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2010-10-01",
+          "hasta": "2010-10-20",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2010-10-21",
+          "hasta": "2011-02-11",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2011-02-12",
+          "hasta": "2011-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2012-01-01",
+          "hasta": "2012-01-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2012-02-01",
+          "hasta": "2012-02-07",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2012-02-08",
+          "hasta": "2012-06-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2012-07-01",
+          "hasta": "2012-09-26",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2012-09-27",
+          "hasta": "2012-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2013-01-01",
+          "hasta": "2013-03-01",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2013-03-02",
+          "hasta": "2013-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2014-01-01",
+          "hasta": "2014-02-19",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2014-02-20",
+          "hasta": "2014-04-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2014-05-01",
+          "hasta": "2014-09-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2014-10-01",
+          "hasta": "2014-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2015-01-01",
+          "hasta": "2015-02-13",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2015-02-14",
+          "hasta": "2015-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2016-01-01",
+          "hasta": "2016-10-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2016-11-01",
+          "hasta": "2016-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2017-01-01",
+          "hasta": "2017-01-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2017-02-01",
+          "hasta": "2017-11-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2017-12-01",
+          "hasta": "2018-02-07",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2018-02-08",
+          "hasta": "2019-02-01",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2019-02-02",
+          "hasta": "2019-02-05",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2019-02-06",
+          "hasta": "2019-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2020-01-01",
+          "hasta": "2020-02-04",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2020-02-05",
+          "hasta": "2020-05-24",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2020-05-25",
+          "hasta": "2020-09-01",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2020-09-02",
+          "hasta": "2021-02-10",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2021-02-11",
+          "hasta": "2021-06-24",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2021-06-25",
+          "hasta": "2021-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2022-01-01",
+          "hasta": "2022-02-08",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2022-02-09",
+          "hasta": "2022-09-01",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2022-09-02",
+          "hasta": "2022-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2023-01-01",
+          "hasta": "2023-02-13",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2023-02-14",
+          "hasta": "2023-02-14",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2023-02-15",
+          "hasta": "2023-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2024-01-01",
+          "hasta": "2024-02-16",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2024-02-17",
+          "hasta": "2024-03-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2024-04-01",
+          "hasta": "2024-10-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2024-11-01",
+          "hasta": "2024-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2025-01-01",
+          "hasta": "2025-02-13",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2025-02-14",
+          "hasta": "2025-07-10",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2025-07-11",
+          "hasta": "2026-03-26",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2026-03-27",
+          "hasta": "",
+          "tipo": "2",
+          "descripcion": "Última Versión"
+        }
+      ],
+      "fecha_version": "1974-12-31",
+      "fecha_actualizacion_texto": "1974-12-31",
+      "eventos_pendientes": [],
+      "diferido": {
+        "presente": false,
+        "alertas": []
+      },
+      "huella": "38a24707cc30735e9bff3baacd24f565c6e969339c33c1471d1dac5d85b07f4b"
+    },
+    "6369": {
+      "id_norma": "6369",
+      "marcador": "Decreto Ley N.º 825, de 1974, del Ministerio de Hacienda, que aprueba la Ley sobre Impuesto a las Ventas y Servicios.",
+      "titulo_bcn": "LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS",
+      "vigencia_actual": {
+        "desde": "2026-03-05",
+        "hasta": "2222-02-01",
+        "tipo": "2",
+        "descripcion": "Última Versión"
+      },
+      "vigencias": [
+        {
+          "desde": "1975-03-01",
+          "hasta": "1976-12-02",
+          "tipo": "0",
+          "descripcion": "Texto Original"
+        },
+        {
+          "desde": "1976-12-03",
+          "hasta": "1978-08-24",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1978-08-25",
+          "hasta": "1979-07-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1979-07-31",
+          "hasta": "1980-07-24",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1980-07-25",
+          "hasta": "1981-02-11",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1981-02-12",
+          "hasta": "1983-10-02",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1983-10-03",
+          "hasta": "1984-12-27",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1984-12-28",
+          "hasta": "1985-12-27",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1985-12-28",
+          "hasta": "1987-07-22",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1987-07-23",
+          "hasta": "1987-12-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1987-12-31",
+          "hasta": "1988-06-20",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1988-06-21",
+          "hasta": "1988-06-22",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1988-06-23",
+          "hasta": "1988-12-28",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1988-12-29",
+          "hasta": "1989-01-13",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1989-01-14",
+          "hasta": "1989-10-19",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1989-10-20",
+          "hasta": "1989-10-29",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1989-10-30",
+          "hasta": "1995-08-03",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1995-08-04",
+          "hasta": "1995-10-22",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1995-10-23",
+          "hasta": "1996-07-12",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1996-07-13",
+          "hasta": "1997-01-02",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1997-01-03",
+          "hasta": "1997-07-29",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1997-07-30",
+          "hasta": "1997-11-16",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1997-11-17",
+          "hasta": "1997-11-17",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1997-11-18",
+          "hasta": "1997-12-18",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1997-12-19",
+          "hasta": "1998-07-28",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1998-07-29",
+          "hasta": "1998-12-29",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1998-12-30",
+          "hasta": "1999-04-13",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1999-04-14",
+          "hasta": "1999-09-10",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1999-09-11",
+          "hasta": "1999-10-24",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1999-10-25",
+          "hasta": "2000-01-06",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2000-01-07",
+          "hasta": "2001-01-02",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2001-01-03",
+          "hasta": "2001-02-08",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2001-02-09",
+          "hasta": "2001-06-18",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2001-06-19",
+          "hasta": "2001-07-27",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2001-07-28",
+          "hasta": "2001-09-10",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2001-09-11",
+          "hasta": "2002-01-03",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2002-01-04",
+          "hasta": "2002-05-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2002-05-31",
+          "hasta": "2002-08-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2002-08-31",
+          "hasta": "2002-11-22",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2002-11-23",
+          "hasta": "2002-12-26",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2002-12-27",
+          "hasta": "2003-08-12",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2003-08-13",
+          "hasta": "2003-11-18",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2003-11-19",
+          "hasta": "2004-01-08",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2004-01-09",
+          "hasta": "2005-01-06",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2005-01-07",
+          "hasta": "2005-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2006-01-01",
+          "hasta": "2006-04-27",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2006-04-28",
+          "hasta": "2006-10-11",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2006-10-12",
+          "hasta": "2006-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2007-01-01",
+          "hasta": "2007-05-08",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2007-05-09",
+          "hasta": "2007-06-04",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2007-06-05",
+          "hasta": "2008-03-16",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2008-03-17",
+          "hasta": "2011-01-26",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2011-01-27",
+          "hasta": "2011-11-01",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2011-11-02",
+          "hasta": "2012-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2013-01-01",
+          "hasta": "2014-01-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2014-01-31",
+          "hasta": "2014-07-29",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2014-07-30",
+          "hasta": "2014-09-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2014-10-01",
+          "hasta": "2014-10-09",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2014-10-10",
+          "hasta": "2014-10-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2014-11-01",
+          "hasta": "2014-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2015-01-01",
+          "hasta": "2015-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2016-01-01",
+          "hasta": "2016-01-20",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2016-01-21",
+          "hasta": "2016-02-29",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2016-03-01",
+          "hasta": "2016-10-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2016-11-01",
+          "hasta": "2017-03-12",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2017-03-13",
+          "hasta": "2017-11-02",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2017-11-03",
+          "hasta": "2020-01-16",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2020-01-17",
+          "hasta": "2020-01-20",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2020-01-21",
+          "hasta": "2020-02-29",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2020-03-01",
+          "hasta": "2020-05-24",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2020-05-25",
+          "hasta": "2020-08-24",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2020-08-25",
+          "hasta": "2020-09-01",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2020-09-02",
+          "hasta": "2022-03-24",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2022-03-25",
+          "hasta": "2022-03-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2022-04-01",
+          "hasta": "2022-07-25",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2022-07-26",
+          "hasta": "2022-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2023-01-01",
+          "hasta": "2024-10-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2024-11-01",
+          "hasta": "2024-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2025-01-01",
+          "hasta": "2025-07-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2025-08-01",
+          "hasta": "2025-10-24",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2025-10-25",
+          "hasta": "2026-03-04",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2026-03-05",
+          "hasta": "2222-02-01",
+          "tipo": "2",
+          "descripcion": "Última Versión"
+        },
+        {
+          "desde": "2222-02-02",
+          "hasta": "",
+          "tipo": "8",
+          "descripcion": "Con Vigencia Diferida por Evento"
+        }
+      ],
+      "fecha_version": "1974-12-31",
+      "fecha_actualizacion_texto": "1974-12-31",
+      "eventos_pendientes": [
+        "La modificación ordenada por el numeral 13 del artículo 3 de la ley 21713 al artículo 36 de esta norma, entrará en vigencia seis meses después de la dictación del  decreto supremo que reemplace al Decreto Supremo 348 de 1975, del Ministerio de Economía, Fomento y Reconstrucción, cuyo texto refundido se encuentra en el Decreto Supremo N° 79 de 1991 del Ministerio de Economía, Fomento y Reconstrucción, el que deberá dictarse dentro de los tres meses siguientes al de publicación en el Diario Oficial, conforme al número 2 del artículo segundo transitorio de la citada ley."
+      ],
+      "diferido": {
+        "presente": true,
+        "alertas": [
+          {
+            "clase": "diferido",
+            "texto": "Tiene texto diferido",
+            "mensaje": "La modificación ordenada por el numeral 13 del artículo 3 de la ley 21713 al artículo 36 de esta norma, entrará en vigencia seis meses después de la dictación del  decreto supremo que reemplace al Decreto Supremo 348 de 1975, del Ministerio de Economía, Fomento y Reconstrucción, cuyo texto refundido se encuentra en el Decreto Supremo N° 79 de 1991 del Ministerio de Economía, Fomento y Reconstrucción, el que deberá dictarse dentro de los tres meses siguientes al de publicación en el Diario Oficial, conforme al número 2 del artículo segundo transitorio de la citada ley."
+          }
+        ]
+      },
+      "huella": "99fabf610ba722f246be1169169b7ecc70ec5b18af84607a3d16d96849fc302b"
+    },
+    "8355": {
+      "id_norma": "8355",
+      "marcador": "Decreto Supremo N.º 55, de 1977, del Ministerio de Hacienda, que aprueba el Reglamento de la Ley sobre Impuesto a las Ventas y Servicios.",
+      "titulo_bcn": "APRUEBA REGLAMENTO DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS",
+      "vigencia_actual": {
+        "desde": "2018-03-01",
+        "hasta": "",
+        "tipo": "2",
+        "descripcion": "Última Versión"
+      },
+      "vigencias": [
+        {
+          "desde": "1977-02-02",
+          "hasta": "1980-03-07",
+          "tipo": "0",
+          "descripcion": "Texto Original"
+        },
+        {
+          "desde": "1980-03-08",
+          "hasta": "1991-08-06",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1991-08-07",
+          "hasta": "1994-04-23",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1994-04-24",
+          "hasta": "1995-02-12",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1995-02-13",
+          "hasta": "2004-01-23",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2004-01-24",
+          "hasta": "2018-02-28",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2018-03-01",
+          "hasta": "",
+          "tipo": "2",
+          "descripcion": "Última Versión"
+        }
+      ],
+      "fecha_version": "1995-02-13",
+      "fecha_actualizacion_texto": "2004-01-24",
+      "eventos_pendientes": [],
+      "diferido": {
+        "presente": false,
+        "alertas": []
+      },
+      "huella": "337acb224296907997650c2f22662518c7937338572465fa750c0f56cf97c9c6"
+    },
+    "123235": {
+      "id_norma": "123235",
+      "marcador": "Decreto N.º 79, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, que fija disposiciones por las cuales los exportadores que indica podrán recuperar el impuesto señalado en el Título II del Decreto Ley N.º 825, de 1974.",
+      "titulo_bcn": "APRUEBA TEXTO DEL DECRETO Nº348, DE 1975.",
+      "vigencia_actual": {
+        "desde": "1994-12-09",
+        "hasta": "",
+        "tipo": "2",
+        "descripcion": "Última Versión"
+      },
+      "vigencias": [
+        {
+          "desde": "1991-06-03",
+          "hasta": "1994-12-08",
+          "tipo": "0",
+          "descripcion": "Texto Original"
+        },
+        {
+          "desde": "1994-12-09",
+          "hasta": "",
+          "tipo": "2",
+          "descripcion": "Última Versión"
+        }
+      ],
+      "fecha_version": "1991-06-03",
+      "fecha_actualizacion_texto": "1994-12-09",
+      "eventos_pendientes": [],
+      "diferido": {
+        "presente": false,
+        "alertas": []
+      },
+      "huella": "c4940d6766314e338cf760dd703cff11d3046375d55f43d02816be2555b242a6"
+    },
+    "237759": {
+      "id_norma": "237759",
+      "marcador": "Ley N.º 4.533, de 1929, del Ministerio de Hacienda, sobre impuesto a las herencias y donaciones.",
+      "titulo_bcn": "IMPUESTO SOBRE HERENCIAS Y DONACIONES",
+      "vigencia_actual": {
+        "desde": "1929-01-12",
+        "hasta": "",
+        "tipo": "3",
+        "descripcion": "Única"
+      },
+      "vigencias": [
+        {
+          "desde": "1929-01-12",
+          "hasta": "",
+          "tipo": "3",
+          "descripcion": "Única"
+        }
+      ],
+      "fecha_version": "1929-01-12",
+      "fecha_actualizacion_texto": "1929-01-12",
+      "eventos_pendientes": [],
+      "diferido": {
+        "presente": false,
+        "alertas": []
+      },
+      "huella": "c9b3561cc6a96b5f1068189cf66f66725c28f70361dfcf3502dcb88bcb0106c5"
+    },
+    "7137": {
+      "id_norma": "7137",
+      "marcador": "Decreto Ley N.º 3.475, de 1980, del Ministerio de Hacienda, que modifica la Ley de Timbres y Estampillas contenida en el Decreto Ley N.º 619, de 1974.",
+      "titulo_bcn": "MODIFICA LA LEY DE TIMBRES Y ESTAMPILLAS CONTENIDA EN EL DECRETO LEY N° 619, DE 1974",
+      "vigencia_actual": {
+        "desde": "2026-01-01",
+        "hasta": "",
+        "tipo": "2",
+        "descripcion": "Última Versión"
+      },
+      "vigencias": [
+        {
+          "desde": "1980-11-01",
+          "hasta": "1981-01-20",
+          "tipo": "0",
+          "descripcion": "Texto Original"
+        },
+        {
+          "desde": "1981-01-21",
+          "hasta": "1981-05-03",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1981-05-04",
+          "hasta": "1987-12-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1987-12-31",
+          "hasta": "1988-02-29",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1988-03-01",
+          "hasta": "1991-06-24",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1991-06-25",
+          "hasta": "1992-08-12",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1992-08-13",
+          "hasta": "1996-12-08",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1996-12-09",
+          "hasta": "1996-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1997-01-01",
+          "hasta": "1997-01-06",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1997-01-07",
+          "hasta": "1997-07-29",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1997-07-30",
+          "hasta": "1997-12-18",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1997-12-19",
+          "hasta": "1997-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1998-01-01",
+          "hasta": "1998-01-06",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1998-01-07",
+          "hasta": "1998-07-02",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1998-07-03",
+          "hasta": "1998-07-28",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1998-07-29",
+          "hasta": "1998-12-29",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1998-12-30",
+          "hasta": "1998-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1999-01-01",
+          "hasta": "1999-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2000-01-01",
+          "hasta": "2000-06-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2000-07-01",
+          "hasta": "2000-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2001-01-01",
+          "hasta": "2001-06-21",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2001-06-22",
+          "hasta": "2001-06-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2001-07-01",
+          "hasta": "2001-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2002-01-01",
+          "hasta": "2002-02-28",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2002-03-01",
+          "hasta": "2002-06-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2002-07-01",
+          "hasta": "2002-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2003-01-01",
+          "hasta": "2003-06-17",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2003-06-18",
+          "hasta": "2004-12-12",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2004-12-13",
+          "hasta": "2005-06-21",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2005-06-22",
+          "hasta": "2005-12-20",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2005-12-21",
+          "hasta": "2006-06-27",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2006-06-28",
+          "hasta": "2006-11-06",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2006-11-07",
+          "hasta": "2006-12-28",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2006-12-29",
+          "hasta": "2006-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2007-01-01",
+          "hasta": "2007-06-04",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2007-06-05",
+          "hasta": "2007-06-13",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2007-06-14",
+          "hasta": "2007-10-02",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2007-10-03",
+          "hasta": "2007-12-09",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2007-12-10",
+          "hasta": "2008-06-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2008-07-01",
+          "hasta": "2008-09-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2008-10-01",
+          "hasta": "2008-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2009-01-01",
+          "hasta": "2009-01-28",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2009-01-29",
+          "hasta": "2009-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2010-01-01",
+          "hasta": "2010-06-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2010-07-01",
+          "hasta": "2010-07-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2010-07-31",
+          "hasta": "2010-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2011-01-01",
+          "hasta": "2011-06-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2011-07-01",
+          "hasta": "2011-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2012-01-01",
+          "hasta": "2012-06-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2012-07-01",
+          "hasta": "2012-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2013-01-01",
+          "hasta": "2013-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2014-01-01",
+          "hasta": "2014-06-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2014-07-01",
+          "hasta": "2014-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2015-01-01",
+          "hasta": "2015-06-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2015-07-01",
+          "hasta": "2015-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2016-01-01",
+          "hasta": "2016-01-03",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2016-01-04",
+          "hasta": "2016-06-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2016-07-01",
+          "hasta": "2016-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2017-01-01",
+          "hasta": "2017-06-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2017-07-01",
+          "hasta": "2017-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2018-01-01",
+          "hasta": "2018-06-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2018-07-01",
+          "hasta": "2018-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2019-01-01",
+          "hasta": "2019-06-25",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2019-06-26",
+          "hasta": "2019-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2020-01-01",
+          "hasta": "2020-04-01",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2020-04-02",
+          "hasta": "2020-06-05",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2020-06-06",
+          "hasta": "2020-09-07",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2020-09-08",
+          "hasta": "2020-12-03",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2020-12-04",
+          "hasta": "2021-06-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2021-07-01",
+          "hasta": "2021-12-20",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2021-12-21",
+          "hasta": "2022-06-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2022-07-01",
+          "hasta": "2022-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2023-01-01",
+          "hasta": "2023-06-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2023-07-01",
+          "hasta": "2023-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2024-01-01",
+          "hasta": "2024-06-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2024-07-01",
+          "hasta": "2024-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2025-01-01",
+          "hasta": "2025-07-06",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2025-07-07",
+          "hasta": "2025-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2026-01-01",
+          "hasta": "",
+          "tipo": "2",
+          "descripcion": "Última Versión"
+        }
+      ],
+      "fecha_version": "1996-12-09",
+      "fecha_actualizacion_texto": "1996-12-09",
+      "eventos_pendientes": [],
+      "diferido": {
+        "presente": false,
+        "alertas": []
+      },
+      "huella": "ee2314ed60745d4e8c5d3394ec8982eaf31d6da2054e94301ae305771b3e82cb"
+    },
+    "3747": {
+      "id_norma": "3747",
+      "marcador": "Decreto con Fuerza de Ley N.º 7, de 1980, del Ministerio de Hacienda, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos y adecua disposiciones legales que señala.",
+      "titulo_bcn": "FIJA TEXTO DE LA LEY ORGANICA DEL SERVICIO DE IMPUESTOS INTERNOS Y ADECUA DISPOSICIONES LEGALES QUE SEÑALA",
+      "vigencia_actual": {
+        "desde": "2025-05-01",
+        "hasta": "",
+        "tipo": "2",
+        "descripcion": "Última Versión"
+      },
+      "vigencias": [
+        {
+          "desde": "1980-10-15",
+          "hasta": "1980-10-15",
+          "tipo": "0",
+          "descripcion": "Texto Original"
+        },
+        {
+          "desde": "1980-10-16",
+          "hasta": "1991-02-13",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1991-02-14",
+          "hasta": "1993-05-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1993-06-01",
+          "hasta": "1997-07-29",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1997-07-30",
+          "hasta": "1999-11-12",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1999-11-13",
+          "hasta": "2002-05-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2002-05-31",
+          "hasta": "2010-04-29",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2010-04-30",
+          "hasta": "2010-08-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2010-08-31",
+          "hasta": "2013-01-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2013-02-01",
+          "hasta": "2014-01-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2014-01-31",
+          "hasta": "2014-09-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2014-10-01",
+          "hasta": "2015-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2016-01-01",
+          "hasta": "2016-02-07",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2016-02-08",
+          "hasta": "2020-02-29",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2020-03-01",
+          "hasta": "2024-10-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2024-11-01",
+          "hasta": "2025-04-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2025-05-01",
+          "hasta": "",
+          "tipo": "2",
+          "descripcion": "Última Versión"
+        }
+      ],
+      "fecha_version": "1980-10-15",
+      "fecha_actualizacion_texto": "1980-10-15",
+      "eventos_pendientes": [],
+      "diferido": {
+        "presente": false,
+        "alertas": []
+      },
+      "huella": "13a3b2686fc8849e67a49c2f1e613a873cd4705b97e312d02f55ad55eff5b289"
+    },
+    "286151": {
+      "id_norma": "286151",
+      "marcador": "Ley N.º 20.322, que fortalece y perfecciona la jurisdicción tributaria y aduanera, Ley Orgánica de Tribunales Tributarios y Aduaneros.",
+      "titulo_bcn": "FORTALECE Y PERFECCIONA LA JURISDICCIÓN TRIBUTARIA Y ADUANERA",
+      "vigencia_actual": {
+        "desde": "2024-12-12",
+        "hasta": "",
+        "tipo": "2",
+        "descripcion": "Última Versión"
+      },
+      "vigencias": [
+        {
+          "desde": "2009-01-27",
+          "hasta": "2014-05-27",
+          "tipo": "0",
+          "descripcion": "Texto Original"
+        },
+        {
+          "desde": "2014-05-28",
+          "hasta": "2014-09-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2014-10-01",
+          "hasta": "2017-10-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2017-11-01",
+          "hasta": "2018-09-05",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2018-09-06",
+          "hasta": "2018-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2019-01-01",
+          "hasta": "2020-02-29",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2020-03-01",
+          "hasta": "2024-10-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2024-11-01",
+          "hasta": "2024-12-11",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2024-12-12",
+          "hasta": "",
+          "tipo": "2",
+          "descripcion": "Última Versión"
+        }
+      ],
+      "fecha_version": "2009-01-27",
+      "fecha_actualizacion_texto": "2009-01-27",
+      "eventos_pendientes": [],
+      "diferido": {
+        "presente": false,
+        "alertas": []
+      },
+      "huella": "a45252768686e9bcebc33d8d9d256a15015fcd53bedaac93fceb1b1773b5a0db"
+    },
+    "1207746": {
+      "id_norma": "1207746",
+      "marcador": "Ley N.º 21.713, que dicta normas para asegurar el cumplimiento de las obligaciones tributarias dentro del Pacto por el Crecimiento Económico, el Progreso Social y la Responsabilidad Fiscal.",
+      "titulo_bcn": "DICTA NORMAS PARA ASEGURAR EL CUMPLIMIENTO DE LAS OBLIGACIONES TRIBUTARIAS DENTRO DEL PACTO POR EL CRECIMIENTO ECONÓMICO, EL PROGRESO SOCIAL Y LA RESPONSABILIDAD FISCAL",
+      "vigencia_actual": {
+        "desde": "2026-02-05",
+        "hasta": "",
+        "tipo": "2",
+        "descripcion": "Última Versión"
+      },
+      "vigencias": [
+        {
+          "desde": "2024-10-24",
+          "hasta": "2024-10-30",
+          "tipo": "0",
+          "descripcion": "Texto Original"
+        },
+        {
+          "desde": "2024-10-31",
+          "hasta": "2025-01-02",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2025-01-03",
+          "hasta": "2026-02-04",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2026-02-05",
+          "hasta": "",
+          "tipo": "2",
+          "descripcion": "Última Versión"
+        }
+      ],
+      "fecha_version": "2024-10-24",
+      "fecha_actualizacion_texto": "2024-10-24",
+      "eventos_pendientes": [],
+      "diferido": {
+        "presente": false,
+        "alertas": []
+      },
+      "huella": "7d15de8d4078c1b785c499ecce8059c78fe8924e3639d1353361d759bd591ad2"
+    },
+    "6399": {
+      "id_norma": "6399",
+      "marcador": "Decreto Ley N.º 910, de 1975, del Ministerio de Hacienda, que modifica los Decretos Leyes N.os 619, 824, 825, 826, 827 y 830, y establece el crédito especial para empresas constructoras.",
+      "titulo_bcn": "MODIFICA LOS DECRETOS LEYES 619, 824, 825, 826, 827 Y 830; OTRAS DISPOSICIONES DE ORDEN TRIBUTARIO",
+      "vigencia_actual": {
+        "desde": "2025-01-01",
+        "hasta": "",
+        "tipo": "2",
+        "descripcion": "Última Versión"
+      },
+      "vigencias": [
+        {
+          "desde": "1975-03-01",
+          "hasta": "1975-03-01",
+          "tipo": "0",
+          "descripcion": "Texto Original"
+        },
+        {
+          "desde": "1975-03-02",
+          "hasta": "1988-12-28",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1988-12-29",
+          "hasta": "1988-12-29",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "1988-12-30",
+          "hasta": "2008-03-24",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2008-03-25",
+          "hasta": "2014-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2015-01-01",
+          "hasta": "2015-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2016-01-01",
+          "hasta": "2016-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2017-01-01",
+          "hasta": "2024-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2025-01-01",
+          "hasta": "",
+          "tipo": "2",
+          "descripcion": "Última Versión"
+        }
+      ],
+      "fecha_version": "1975-03-01",
+      "fecha_actualizacion_texto": "1975-03-01",
+      "eventos_pendientes": [],
+      "diferido": {
+        "presente": false,
+        "alertas": []
+      },
+      "huella": "e64118bde83707d94fa09fadf8c7c494339b1ba7b78295afdbea5a8e29a1015e"
+    },
+    "1115067": {
+      "id_norma": "1115067",
+      "marcador": "Ley N.º 21.078, sobre transparencia del mercado del suelo e impuesto al aumento de valor por ampliación del límite urbano.",
+      "titulo_bcn": "SOBRE TRANSPARENCIA DEL MERCADO DEL SUELO E IMPUESTO AL AUMENTO DE VALOR POR AMPLIACIÓN DEL LÍMITE URBANO",
+      "vigencia_actual": {
+        "desde": "2026-02-16",
+        "hasta": "",
+        "tipo": "2",
+        "descripcion": "Última Versión"
+      },
+      "vigencias": [
+        {
+          "desde": "2018-08-16",
+          "hasta": "2026-02-15",
+          "tipo": "0",
+          "descripcion": "Texto Original"
+        },
+        {
+          "desde": "2026-02-16",
+          "hasta": "",
+          "tipo": "2",
+          "descripcion": "Última Versión"
+        }
+      ],
+      "fecha_version": "2018-02-15",
+      "fecha_actualizacion_texto": "2018-02-15",
+      "eventos_pendientes": [],
+      "diferido": {
+        "presente": false,
+        "alertas": []
+      },
+      "huella": "601e607ef5426d6951f0af3290deb3fc0682c4784327f18a342f264c703a6c11"
+    },
+    "128563": {
+      "id_norma": "128563",
+      "marcador": "Decreto con Fuerza de Ley N.º 1, de 1998, del Ministerio de Hacienda, que fija el texto refundido, coordinado, sistematizado y actualizado de la Ley N.º 17.235, sobre Impuesto Territorial.",
+      "titulo_bcn": "FIJA TEXTO REFUNDIDO, COORDINADO, SISTEMATIZADO Y ACTUALIZADO DE LA LEY NUMERO 17.235 SOBRE IMPUESTO TERRITORIAL",
+      "vigencia_actual": {
+        "desde": "2025-03-29",
+        "hasta": "",
+        "tipo": "2",
+        "descripcion": "Última Versión"
+      },
+      "vigencias": [
+        {
+          "desde": "1998-12-16",
+          "hasta": "2001-06-18",
+          "tipo": "0",
+          "descripcion": "Texto Original"
+        },
+        {
+          "desde": "2001-06-19",
+          "hasta": "2005-06-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2005-07-01",
+          "hasta": "2005-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2006-01-01",
+          "hasta": "2006-01-18",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2006-01-19",
+          "hasta": "2008-07-03",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2008-07-04",
+          "hasta": "2010-02-18",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2010-02-19",
+          "hasta": "2012-12-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2012-12-31",
+          "hasta": "2013-02-04",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2013-02-05",
+          "hasta": "2014-02-04",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2014-02-05",
+          "hasta": "2015-03-20",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2015-03-21",
+          "hasta": "2015-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2016-01-01",
+          "hasta": "2016-02-11",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2016-02-12",
+          "hasta": "2017-03-03",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2017-03-04",
+          "hasta": "2018-02-14",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2018-02-15",
+          "hasta": "2018-04-01",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2018-04-02",
+          "hasta": "2018-08-15",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2018-08-16",
+          "hasta": "2019-03-22",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2019-03-23",
+          "hasta": "2020-02-29",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2020-03-01",
+          "hasta": "2020-12-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2020-12-31",
+          "hasta": "2021-03-10",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2021-03-11",
+          "hasta": "2022-04-11",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2022-04-12",
+          "hasta": "2022-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2023-01-01",
+          "hasta": "2023-03-22",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2023-03-23",
+          "hasta": "2024-03-06",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2024-03-07",
+          "hasta": "2025-03-28",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2025-03-29",
+          "hasta": "",
+          "tipo": "2",
+          "descripcion": "Última Versión"
+        }
+      ],
+      "fecha_version": "1998-12-16",
+      "fecha_actualizacion_texto": "1998-12-16",
+      "eventos_pendientes": [],
+      "diferido": {
+        "presente": false,
+        "alertas": []
+      },
+      "huella": "6484bde1adf73fc60dc6c100822a0fac7a491b2b738d5eca7f2a56104bfff104"
+    }
+  }
+}
