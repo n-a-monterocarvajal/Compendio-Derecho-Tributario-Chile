@@ -23,7 +23,7 @@ Este repositorio revisa semanalmente las versiones de sus normas y genera un nue
 10. [Ley N.º 21.713, que dicta normas para asegurar el cumplimiento de las obligaciones tributarias dentro del Pacto por el Crecimiento Económico, el Progreso Social y la Responsabilidad Fiscal.](https://www.bcn.cl/leychile/navegar?idNorma=1207746)
 11. [Decreto Ley N.º 910, de 1975, del Ministerio de Hacienda, que modifica los Decretos Leyes N.os 619, 824, 825, 826, 827 y 830, y establece el crédito especial para empresas constructoras.](https://www.bcn.cl/leychile/navegar?idNorma=6399)
 12. [Ley N.º 21.078, sobre transparencia del mercado del suelo e impuesto al aumento de valor por ampliación del límite urbano.](https://www.bcn.cl/leychile/navegar?idNorma=1115067)
-13. [Ley N.º 17.235, que fija el texto refundido, sistematizado y coordinado de la Ley sobre Impuesto Territorial.](https://www.bcn.cl/leychile/navegar?idNorma=28849)
+13. [Decreto con Fuerza de Ley N.º 1, de 1998, del Ministerio de Hacienda, que fija el texto refundido, coordinado, sistematizado y actualizado de la Ley N.º 17.235, sobre Impuesto Territorial.](https://www.bcn.cl/leychile/navegar?idNorma=128563)
 
 ## 📄 PDF generado
 
