@@ -25,6 +25,8 @@ Este repositorio revisa semanalmente las versiones de sus normas y genera un nue
 12. [Ley N.º 21.078, sobre transparencia del mercado del suelo e impuesto al aumento de valor por ampliación del límite urbano.](https://www.bcn.cl/leychile/navegar?idNorma=1115067)
 13. [Decreto con Fuerza de Ley N.º 1, de 1998, del Ministerio de Hacienda, que fija el texto refundido, coordinado, sistematizado y actualizado de la Ley N.º 17.235, sobre Impuesto Territorial.](https://www.bcn.cl/leychile/navegar?idNorma=128563)
 
+*La selección de las normas está basada en el índice de la publicación [Compendio Tributario (Hammurabi)](https://editorial.tirant.com/cl/libro/compendio-de-normas-ambientales-de-chile-pavez-torrealba-felipe-ignacio-9791370402808).*
+
 ## 📄 PDF generado
 
 El *workflow* produce un archivo PDF con nombre versionado por fecha y hora UTC:
