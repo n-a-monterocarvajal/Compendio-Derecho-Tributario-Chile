@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "actualizado_utc": "2026-08-05T21:02:40+00:00",
+  "actualizado_utc": "2026-08-27T21:02:35+00:00",
   "fuentes": {
     "6374": {
       "id_norma": "6374",
@@ -1868,12 +1868,12 @@
         },
         {
           "desde": "1980-03-08",
-          "hasta": "1991-08-06",
+          "hasta": "1991-12-31",
           "tipo": "1",
           "descripcion": "Intermedio"
         },
         {
-          "desde": "1991-08-07",
+          "desde": "1992-01-01",
           "hasta": "1994-04-23",
           "tipo": "1",
           "descripcion": "Intermedio"
@@ -1910,7 +1910,7 @@
         "presente": false,
         "alertas": []
       },
-      "huella": "337acb224296907997650c2f22662518c7937338572465fa750c0f56cf97c9c6"
+      "huella": "4e712312721142db7c4080f888e27ee358e3e8f0ddfc197bd0d6af17b0b10a8c"
     },
     "123235": {
       "id_norma": "123235",
