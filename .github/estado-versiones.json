@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "actualizado_utc": "2026-10-17T14:13:00+00:00",
+  "actualizado_utc": "2026-10-21T15:57:38+00:00",
   "fuentes": {
     "6374": {
       "id_norma": "6374",
@@ -581,7 +581,7 @@
       "titulo_bcn": "APRUEBA TEXTO QUE INDICA DE LA LEY SOBRE IMPUESTO A LA RENTA",
       "vigencia_actual": {
         "desde": "2026-03-27",
-        "hasta": "",
+        "hasta": "2026-10-31",
         "tipo": "2",
         "descripcion": "Última Versión"
       },
@@ -1314,19 +1314,37 @@
         },
         {
           "desde": "2026-03-27",
-          "hasta": "",
+          "hasta": "2026-10-31",
           "tipo": "2",
           "descripcion": "Última Versión"
+        },
+        {
+          "desde": "2026-11-01",
+          "hasta": "2026-12-31",
+          "tipo": "7",
+          "descripcion": "Con Vigencia Diferida por Fecha"
+        },
+        {
+          "desde": "2027-01-01",
+          "hasta": "",
+          "tipo": "7",
+          "descripcion": "Con Vigencia Diferida por Fecha"
         }
       ],
       "fecha_version": "1974-12-31",
       "fecha_actualizacion_texto": "1974-12-31",
       "eventos_pendientes": [],
       "diferido": {
-        "presente": false,
-        "alertas": []
+        "presente": true,
+        "alertas": [
+          {
+            "clase": "diferido",
+            "texto": "Tiene texto diferido",
+            "mensaje": "Con modificaciones que regirán a contar del 01-ENE-2027<br />Con modificaciones que regirán a contar del 01-NOV-2026"
+          }
+        ]
       },
-      "huella": "38a24707cc30735e9bff3baacd24f565c6e969339c33c1471d1dac5d85b07f4b",
+      "huella": "5ee2b6d27d2fc6705a8f0bf2faf3854a430938e525b68e26c46cb34183df08af",
       "estado": {
         "derogado": false,
         "derogacion_tacita": [],
@@ -2725,7 +2743,7 @@
       "titulo_bcn": "DICTA NORMAS PARA ASEGURAR EL CUMPLIMIENTO DE LAS OBLIGACIONES TRIBUTARIAS DENTRO DEL PACTO POR EL CRECIMIENTO ECONÓMICO, EL PROGRESO SOCIAL Y LA RESPONSABILIDAD FISCAL",
       "vigencia_actual": {
         "desde": "2026-02-05",
-        "hasta": "",
+        "hasta": "2026-10-31",
         "tipo": "2",
         "descripcion": "Última Versión"
       },
@@ -2750,19 +2768,31 @@
         },
         {
           "desde": "2026-02-05",
-          "hasta": "",
+          "hasta": "2026-10-31",
           "tipo": "2",
           "descripcion": "Última Versión"
+        },
+        {
+          "desde": "2026-11-01",
+          "hasta": "",
+          "tipo": "7",
+          "descripcion": "Con Vigencia Diferida por Fecha"
         }
       ],
       "fecha_version": "2024-10-24",
       "fecha_actualizacion_texto": "2024-10-24",
       "eventos_pendientes": [],
       "diferido": {
-        "presente": false,
-        "alertas": []
+        "presente": true,
+        "alertas": [
+          {
+            "clase": "diferido",
+            "texto": "Tiene texto diferido",
+            "mensaje": "Con modificaciones que regirán a contar del 01-NOV-2026"
+          }
+        ]
       },
-      "huella": "7d15de8d4078c1b785c499ecce8059c78fe8924e3639d1353361d759bd591ad2",
+      "huella": "6a226a4e2e314772bafb832fd27847121a57d6d1a97a9a6dc972f3edbed46511",
       "estado": {
         "derogado": false,
         "derogacion_tacita": [],
