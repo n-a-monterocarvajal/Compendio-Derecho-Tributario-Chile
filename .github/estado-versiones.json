@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "actualizado_utc": "2026-10-22T15:53:01+00:00",
+  "actualizado_utc": "2026-10-24T14:33:38+00:00",
   "fuentes": {
     "6374": {
       "id_norma": "6374",
@@ -1883,7 +1883,7 @@
       "fecha_version": "1974-12-31",
       "fecha_actualizacion_texto": "1974-12-31",
       "eventos_pendientes": [
-        "La modificación ordenada por el numeral 13 del artículo 3 de la ley 21713 al artículo 36 de esta norma, entrará en vigencia seis meses después de la dictación del  decreto supremo que reemplace al Decreto Supremo 348 de 1975, del Ministerio de Economía, Fomento y Reconstrucción, cuyo texto refundido se encuentra en el Decreto Supremo N° 79 de 1991 del Ministerio de Economía, Fomento y Reconstrucción, el que deberá dictarse dentro de los tres meses siguientes al de publicación en el Diario Oficial, conforme al número 2 del artículo segundo transitorio de la citada ley."
+        "La modificación ordenada por el Nº 13 del artículo 3 de la ley 21713 al artículo 36 de esta norma, entrará en vigencia tres meses después de la dictación del decreto supremo que reemplace al Decreto Supremo 348 de 1975, del Ministerio de Economía, Fomento y Reconstrucción, cuyo texto refundido se encuentra en el Decreto Supremo N° 79 de 1991 del Ministerio de Economía, Fomento y Reconstrucción, el que deberá dictarse dentro de los veinticuatro meses siguientes a la publicación de la ley 21850, conforme al Nº 2 del artículo tercero transitorio de la citada ley 21713 y su modificación dispuesta por el por el Nº 2 del artículo 32 de la ley 21850. Con todo, lo dispuesto en el nuevo inciso quinto del artículo 36 de la ley sobre Impuesto a las Ventas y Servicios, introducido por el N° 13 del artículo 3 de la presente ley, entrará en vigencia una vez publicado el decreto supremo en el Diario Oficial."
       ],
       "diferido": {
         "presente": true,
@@ -1891,11 +1891,11 @@
           {
             "clase": "diferido",
             "texto": "Tiene texto diferido",
-            "mensaje": "La modificación ordenada por el numeral 13 del artículo 3 de la ley 21713 al artículo 36 de esta norma, entrará en vigencia seis meses después de la dictación del  decreto supremo que reemplace al Decreto Supremo 348 de 1975, del Ministerio de Economía, Fomento y Reconstrucción, cuyo texto refundido se encuentra en el Decreto Supremo N° 79 de 1991 del Ministerio de Economía, Fomento y Reconstrucción, el que deberá dictarse dentro de los tres meses siguientes al de publicación en el Diario Oficial, conforme al número 2 del artículo segundo transitorio de la citada ley."
+            "mensaje": "La modificación ordenada por el Nº 13 del artículo 3 de la ley 21713 al artículo 36 de esta norma, entrará en vigencia tres meses después de la dictación del decreto supremo que reemplace al Decreto Supremo 348 de 1975, del Ministerio de Economía, Fomento y Reconstrucción, cuyo texto refundido se encuentra en el Decreto Supremo N° 79 de 1991 del Ministerio de Economía, Fomento y Reconstrucción, el que deberá dictarse dentro de los veinticuatro meses siguientes a la publicación de la ley 21850, conforme al Nº 2 del artículo tercero transitorio de la citada ley 21713 y su modificación dispuesta por el por el Nº 2 del artículo 32 de la ley 21850. Con todo, lo dispuesto en el nuevo inciso quinto del artículo 36 de la ley sobre Impuesto a las Ventas y Servicios, introducido por el N° 13 del artículo 3 de la presente ley, entrará en vigencia una vez publicado el decreto supremo en el Diario Oficial."
           }
         ]
       },
-      "huella": "99fabf610ba722f246be1169169b7ecc70ec5b18af84607a3d16d96849fc302b",
+      "huella": "ef47b9531082fba04739792db414d0e5cde973b893d6d528a538385b566beac0",
       "estado": {
         "derogado": false,
         "derogacion_tacita": [],
