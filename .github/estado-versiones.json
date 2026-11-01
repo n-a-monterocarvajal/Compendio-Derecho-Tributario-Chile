@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "actualizado_utc": "2026-10-24T14:33:38+00:00",
+  "actualizado_utc": "2026-11-01T17:08:24+00:00",
   "fuentes": {
     "6374": {
       "id_norma": "6374",
       "marcador": "Decreto Ley N.º 830, de 1974, del Ministerio de Hacienda, que aprueba el Código Tributario.",
       "titulo_bcn": "CODIGO TRIBUTARIO",
       "vigencia_actual": {
-        "desde": "2025-07-11",
-        "hasta": "2026-10-31",
+        "desde": "2026-11-01",
+        "hasta": "",
         "tipo": "2",
         "descripcion": "Última Versión"
       },
@@ -556,30 +556,24 @@
         {
           "desde": "2025-07-11",
           "hasta": "2026-10-31",
-          "tipo": "2",
-          "descripcion": "Última Versión"
+          "tipo": "1",
+          "descripcion": "Intermedio"
         },
         {
           "desde": "2026-11-01",
           "hasta": "",
-          "tipo": "7",
-          "descripcion": "Con Vigencia Diferida por Fecha"
+          "tipo": "2",
+          "descripcion": "Última Versión"
         }
       ],
       "fecha_version": "2009-01-27",
       "fecha_actualizacion_texto": "2009-01-27",
       "eventos_pendientes": [],
       "diferido": {
-        "presente": true,
-        "alertas": [
-          {
-            "clase": "diferido",
-            "texto": "Tiene texto diferido",
-            "mensaje": "Con modificaciones que regirán a contar del 01-NOV-2026"
-          }
-        ]
+        "presente": false,
+        "alertas": []
       },
-      "huella": "fc50bdde62623fd9dc2ed1e336733e673a226e0ce8f2d5e5b050d07d4a1a78ca",
+      "huella": "6716e8786e2fb4bf64c19efc3222eb01878cdc3444c799f0e958698d5fc35c1e",
       "estado": {
         "derogado": false,
         "derogacion_tacita": [],
@@ -592,8 +586,8 @@
       "marcador": "Decreto Ley N.º 824, de 1974, del Ministerio de Hacienda, que aprueba el texto de la Ley sobre Impuesto a la Renta.",
       "titulo_bcn": "APRUEBA TEXTO QUE INDICA DE LA LEY SOBRE IMPUESTO A LA RENTA",
       "vigencia_actual": {
-        "desde": "2026-03-27",
-        "hasta": "2026-10-31",
+        "desde": "2026-11-01",
+        "hasta": "2026-12-31",
         "tipo": "2",
         "descripcion": "Última Versión"
       },
@@ -1327,14 +1321,14 @@
         {
           "desde": "2026-03-27",
           "hasta": "2026-10-31",
-          "tipo": "2",
-          "descripcion": "Última Versión"
+          "tipo": "1",
+          "descripcion": "Intermedio"
         },
         {
           "desde": "2026-11-01",
           "hasta": "2026-12-31",
-          "tipo": "7",
-          "descripcion": "Con Vigencia Diferida por Fecha"
+          "tipo": "2",
+          "descripcion": "Última Versión"
         },
         {
           "desde": "2027-01-01",
@@ -1358,11 +1352,11 @@
           {
             "clase": "diferido",
             "texto": "Tiene texto diferido",
-            "mensaje": "Con modificaciones que regirán a contar del 01-ENE-2029<br />Con modificaciones que regirán a contar del 01-ENE-2027<br />Con modificaciones que regirán a contar del 01-NOV-2026"
+            "mensaje": "Con modificaciones que regirán a contar del 01-ENE-2029<br />Con modificaciones que regirán a contar del 01-ENE-2027"
           }
         ]
       },
-      "huella": "b5672def880bfb9de8dbb4fc77846eccbf20d3d27ae6dbc1f677932999e1809f",
+      "huella": "6b65c1887a6781430d944920703b9d46a3e7f8767f8e28064d8e45a4fb8a5251",
       "estado": {
         "derogado": false,
         "derogacion_tacita": [],
@@ -2760,8 +2754,8 @@
       "marcador": "Ley N.º 21.713, que dicta normas para asegurar el cumplimiento de las obligaciones tributarias dentro del Pacto por el Crecimiento Económico, el Progreso Social y la Responsabilidad Fiscal.",
       "titulo_bcn": "DICTA NORMAS PARA ASEGURAR EL CUMPLIMIENTO DE LAS OBLIGACIONES TRIBUTARIAS DENTRO DEL PACTO POR EL CRECIMIENTO ECONÓMICO, EL PROGRESO SOCIAL Y LA RESPONSABILIDAD FISCAL",
       "vigencia_actual": {
-        "desde": "2026-02-05",
-        "hasta": "2026-10-31",
+        "desde": "2026-11-01",
+        "hasta": "",
         "tipo": "2",
         "descripcion": "Última Versión"
       },
@@ -2787,30 +2781,24 @@
         {
           "desde": "2026-02-05",
           "hasta": "2026-10-31",
-          "tipo": "2",
-          "descripcion": "Última Versión"
+          "tipo": "1",
+          "descripcion": "Intermedio"
         },
         {
           "desde": "2026-11-01",
           "hasta": "",
-          "tipo": "7",
-          "descripcion": "Con Vigencia Diferida por Fecha"
+          "tipo": "2",
+          "descripcion": "Última Versión"
         }
       ],
       "fecha_version": "2024-10-24",
       "fecha_actualizacion_texto": "2024-10-24",
       "eventos_pendientes": [],
       "diferido": {
-        "presente": true,
-        "alertas": [
-          {
-            "clase": "diferido",
-            "texto": "Tiene texto diferido",
-            "mensaje": "Con modificaciones que regirán a contar del 01-NOV-2026"
-          }
-        ]
+        "presente": false,
+        "alertas": []
       },
-      "huella": "6a226a4e2e314772bafb832fd27847121a57d6d1a97a9a6dc972f3edbed46511",
+      "huella": "9a252df42d9ac9c83ad42c7b94ea8656e451367145e1a28328df9d8fc3148b63",
       "estado": {
         "derogado": false,
         "derogacion_tacita": [],
