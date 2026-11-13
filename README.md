@@ -28,12 +28,14 @@ Este repositorio revisa diariamente las versiones de sus normas y genera un nuev
 15. [Ley N.º 20.712, sobre administración de fondos de terceros y carteras individuales (Ley Única de Fondos).](https://www.bcn.cl/leychile/navegar?idNorma=1057895)
 16. [Ley N.º 21.540, que repone el tratamiento tributario para los contratos de arrendamiento con opción de compra de bienes que impliquen una operación de financiamiento o leasing financiero.](https://www.bcn.cl/leychile/navegar?idNorma=1189043)
 17. [Ley N.º 21.591, sobre royalty a la minería.](https://www.bcn.cl/leychile/navegar?idNorma=1194982)
-18. [Ley N.º 21.210, que moderniza la legislación tributaria.](https://www.bcn.cl/leychile/navegar?idNorma=1142667)
+18. [Ley N.º 21.210, que moderniza la legislación tributaria (artículos vigésimo tercero, que crea la Defensoría del Contribuyente, y trigésimo segundo, sobre la contribución para el desarrollo regional, y disposiciones transitorias).](https://www.bcn.cl/leychile/navegar?idNorma=1142667&idParte=10103129)
 19. [Ley N.º 21.850, para la reconstrucción nacional y el desarrollo económico y social.](https://www.bcn.cl/leychile/navegar?idNorma=1229250)
 
 *La selección de las normas está basada en los índices de las publicaciones [Compendio Tributario (Hammurabi)](https://www.editorialhammurabi.com/shop/derecho/publico/derecho-tributario/compendio-tributario-parte-i-legislacion-tributaria/) y Compendio de Leyes Tributarias, año tributario 2026-2027 ([Libromar](https://libromar.cl/derecho-tributario-y-aduanero/6218-compendio-de-leyes-tributarias-ano-tributario-2026-2027.html)).*
 
 *La Ley N.º 16.271 se incluye en el texto refundido que fija el artículo 8 del DFL N.º 1, de 2000, de Justicia, que es el que Ley Chile mantiene actualizado; el compendio descarga solo ese artículo.*
+
+*De la Ley N.º 21.210, ley modificatoria cuyas modificaciones ya están incorporadas en los textos de las normas que reforma, se incluyen solo los artículos con contenido propio y las disposiciones transitorias.*
 
 ## 📄 PDF generado
 

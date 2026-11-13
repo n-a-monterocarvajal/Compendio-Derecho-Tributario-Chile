@@ -125,9 +125,14 @@
     },
     {
       "tipo": "bcn",
-      "marcador": "Ley N.º 21.210, que moderniza la legislación tributaria.",
-      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1142667",
+      "marcador": "Ley N.º 21.210, que moderniza la legislación tributaria (artículos vigésimo tercero, que crea la Defensoría del Contribuyente, y trigésimo segundo, sobre la contribución para el desarrollo regional, y disposiciones transitorias).",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1142667&idParte=10103129",
       "id_norma": 1142667,
+      "id_parte": [
+        10103129,
+        10103236,
+        10103250
+      ],
       "archivo": "18_ley_21210_modernizacion_tributaria"
     },
     {
