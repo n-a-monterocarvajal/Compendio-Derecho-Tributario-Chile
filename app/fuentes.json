@@ -40,10 +40,11 @@
     },
     {
       "tipo": "bcn",
-      "marcador": "Ley N.º 4.533, de 1929, del Ministerio de Hacienda, sobre impuesto a las herencias y donaciones.",
-      "url": "https://www.bcn.cl/leychile/navegar?idNorma=237759",
-      "id_norma": 237759,
-      "archivo": "06_ley_impuesto_herencias_donaciones"
+      "marcador": "Ley N.º 16.271, sobre impuesto a las herencias, asignaciones y donaciones, cuyo texto refundido fija el artículo 8 del Decreto con Fuerza de Ley N.º 1, de 2000, del Ministerio de Justicia.",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8720755",
+      "id_norma": 172986,
+      "id_parte": 8720755,
+      "archivo": "06_ley_impuesto_herencias_asignaciones_donaciones"
     },
     {
       "tipo": "bcn",
@@ -93,6 +94,48 @@
       "url": "https://www.bcn.cl/leychile/navegar?idNorma=128563",
       "id_norma": 128563,
       "archivo": "13_ley_impuesto_territorial"
+    },
+    {
+      "tipo": "bcn",
+      "marcador": "Ley N.º 20.544, que regula el tratamiento tributario de los instrumentos derivados.",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1031504",
+      "id_norma": 1031504,
+      "archivo": "14_ley_20544_instrumentos_derivados"
+    },
+    {
+      "tipo": "bcn",
+      "marcador": "Ley N.º 20.712, sobre administración de fondos de terceros y carteras individuales (Ley Única de Fondos).",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1057895",
+      "id_norma": 1057895,
+      "archivo": "15_ley_20712_ley_unica_fondos"
+    },
+    {
+      "tipo": "bcn",
+      "marcador": "Ley N.º 21.540, que repone el tratamiento tributario para los contratos de arrendamiento con opción de compra de bienes que impliquen una operación de financiamiento o leasing financiero.",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1189043",
+      "id_norma": 1189043,
+      "archivo": "16_ley_21540_leasing_financiero"
+    },
+    {
+      "tipo": "bcn",
+      "marcador": "Ley N.º 21.591, sobre royalty a la minería.",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1194982",
+      "id_norma": 1194982,
+      "archivo": "17_ley_21591_royalty_mineria"
+    },
+    {
+      "tipo": "bcn",
+      "marcador": "Ley N.º 21.210, que moderniza la legislación tributaria.",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1142667",
+      "id_norma": 1142667,
+      "archivo": "18_ley_21210_modernizacion_tributaria"
+    },
+    {
+      "tipo": "bcn",
+      "marcador": "Ley N.º 21.850, para la reconstrucción nacional y el desarrollo económico y social.",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1229250",
+      "id_norma": 1229250,
+      "archivo": "19_ley_21850_reconstruccion_nacional"
     }
   ]
 }
