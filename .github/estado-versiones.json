@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "actualizado_utc": "2026-11-01T17:08:24+00:00",
+  "actualizado_utc": "2026-11-14T17:09:38+00:00",
   "fuentes": {
     "6374": {
       "id_norma": "6374",
@@ -2005,38 +2005,87 @@
       },
       "version_vigente_indicada": ""
     },
-    "237759": {
-      "id_norma": "237759",
-      "marcador": "Ley N.º 4.533, de 1929, del Ministerio de Hacienda, sobre impuesto a las herencias y donaciones.",
-      "titulo_bcn": "IMPUESTO SOBRE HERENCIAS Y DONACIONES",
+    "172986": {
+      "id_norma": "172986",
+      "marcador": "Ley N.º 16.271, sobre impuesto a las herencias, asignaciones y donaciones, cuyo texto refundido fija el artículo 8 del Decreto con Fuerza de Ley N.º 1, de 2000, del Ministerio de Justicia.",
+      "titulo_bcn": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODIGO CIVIL; DE LA LEY Nº4.808, SOBRE REGISTRO CIVIL, DE LA LEY Nº17.344, QUE AUTORIZA CAMBIO DE NOMBRES Y APELLIDOS, DE LA LEY Nº 16.618, LEY DE MENORES, DE LA LEY Nº 14.908, SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS, Y DE LA LEY Nº16.271, DE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES",
       "vigencia_actual": {
-        "desde": "1929-01-12",
+        "desde": "2022-02-04",
         "hasta": "",
-        "tipo": "3",
-        "descripcion": "Única"
+        "tipo": "2",
+        "descripcion": "Última Versión"
       },
       "vigencias": [
         {
-          "desde": "1929-01-12",
+          "desde": "2000-05-30",
+          "hasta": "2001-05-04",
+          "tipo": "0",
+          "descripcion": "Texto Original"
+        },
+        {
+          "desde": "2001-05-05",
+          "hasta": "2003-10-09",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2003-10-10",
+          "hasta": "2006-01-17",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2006-01-18",
+          "hasta": "2014-10-09",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2014-10-10",
+          "hasta": "2015-10-21",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2015-10-22",
+          "hasta": "2020-02-29",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2020-03-01",
+          "hasta": "2020-05-24",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2020-05-25",
+          "hasta": "2022-02-03",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2022-02-04",
           "hasta": "",
-          "tipo": "3",
-          "descripcion": "Única"
+          "tipo": "2",
+          "descripcion": "Última Versión"
         }
       ],
-      "fecha_version": "1929-01-12",
-      "fecha_actualizacion_texto": "1929-01-12",
+      "fecha_version": "2000-05-30",
+      "fecha_actualizacion_texto": "2000-05-30",
       "eventos_pendientes": [],
       "diferido": {
         "presente": false,
         "alertas": []
       },
-      "huella": "c9b3561cc6a96b5f1068189cf66f66725c28f70361dfcf3502dcb88bcb0106c5",
+      "huella": "3a2ea11ff646e090f820a37080151fbcd3f15534762097900de2ea89357656d1",
       "estado": {
         "derogado": false,
         "derogacion_tacita": [],
         "alertas": []
       },
-      "version_vigente_indicada": ""
+      "version_vigente_indicada": "",
+      "id_parte": "8720755"
     },
     "7137": {
       "id_norma": "7137",
@@ -2670,7 +2719,7 @@
     },
     "286151": {
       "id_norma": "286151",
-      "marcador": "Ley N.º 20.322, que fortalece y perfecciona la jurisdicción tributaria y aduanera, Ley Orgánica de Tribunales Tributarios y Aduaneros.",
+      "marcador": "Ley N.º 20.322, que fortalece y perfecciona la jurisdicción tributaria y aduanera. Selección: artículo primero, que fija la Ley Orgánica de Tribunales Tributarios y Aduaneros; artículos octavo a undécimo, y disposiciones transitorias.",
       "titulo_bcn": "FORTALECE Y PERFECCIONA LA JURISDICCIÓN TRIBUTARIA Y ADUANERA",
       "vigencia_actual": {
         "desde": "2024-12-12",
@@ -2681,9 +2730,21 @@
       "vigencias": [
         {
           "desde": "2009-01-27",
+          "hasta": "",
+          "tipo": "3",
+          "descripcion": "Única"
+        },
+        {
+          "desde": "2009-01-27",
           "hasta": "2014-05-27",
           "tipo": "0",
           "descripcion": "Texto Original"
+        },
+        {
+          "desde": "2014-05-28",
+          "hasta": "",
+          "tipo": "2",
+          "descripcion": "Última Versión"
         },
         {
           "desde": "2014-05-28",
@@ -2741,17 +2802,18 @@
         "presente": false,
         "alertas": []
       },
-      "huella": "a45252768686e9bcebc33d8d9d256a15015fcd53bedaac93fceb1b1773b5a0db",
+      "huella": "8ede3120961eed83cc73011895d51ec4f19e007e4303bbf4a8441396f1e4dbc9",
       "estado": {
         "derogado": false,
         "derogacion_tacita": [],
         "alertas": []
       },
-      "version_vigente_indicada": ""
+      "version_vigente_indicada": "",
+      "id_parte": "8220330,8220366,8220367,8220368,8220369,8220371"
     },
     "1207746": {
       "id_norma": "1207746",
-      "marcador": "Ley N.º 21.713, que dicta normas para asegurar el cumplimiento de las obligaciones tributarias dentro del Pacto por el Crecimiento Económico, el Progreso Social y la Responsabilidad Fiscal.",
+      "marcador": "Ley N.º 21.713, que dicta normas para asegurar el cumplimiento de las obligaciones tributarias dentro del Pacto por el Crecimiento Económico, el Progreso Social y la Responsabilidad Fiscal. Selección: artículo 14, artículos transitorios y artículo final.",
       "titulo_bcn": "DICTA NORMAS PARA ASEGURAR EL CUMPLIMIENTO DE LAS OBLIGACIONES TRIBUTARIAS DENTRO DEL PACTO POR EL CRECIMIENTO ECONÓMICO, EL PROGRESO SOCIAL Y LA RESPONSABILIDAD FISCAL",
       "vigencia_actual": {
         "desde": "2026-11-01",
@@ -2760,6 +2822,12 @@
         "descripcion": "Última Versión"
       },
       "vigencias": [
+        {
+          "desde": "2024-10-24",
+          "hasta": "",
+          "tipo": "3",
+          "descripcion": "Única"
+        },
         {
           "desde": "2024-10-24",
           "hasta": "2024-10-30",
@@ -2798,13 +2866,14 @@
         "presente": false,
         "alertas": []
       },
-      "huella": "9a252df42d9ac9c83ad42c7b94ea8656e451367145e1a28328df9d8fc3148b63",
+      "huella": "aa3e4d7c1c8dde5214fd6edc0f8fb6703bc72628c5c95b4bb114b42b7f62dbee",
       "estado": {
         "derogado": false,
         "derogacion_tacita": [],
         "alertas": []
       },
-      "version_vigente_indicada": ""
+      "version_vigente_indicada": "",
+      "id_parte": "10521210,10521213,10521238"
     },
     "6399": {
       "id_norma": "6399",
@@ -2889,7 +2958,7 @@
     },
     "1115067": {
       "id_norma": "1115067",
-      "marcador": "Ley N.º 21.078, sobre transparencia del mercado del suelo e impuesto al aumento de valor por ampliación del límite urbano.",
+      "marcador": "Ley N.º 21.078, sobre transparencia del mercado del suelo e impuesto al aumento de valor por ampliación del límite urbano. Selección: artículo cuarto, que aprueba la Ley sobre Incrementos de Valor por Ampliaciones de los Límites Urbanos; artículo quinto, y artículo transitorio.",
       "titulo_bcn": "SOBRE TRANSPARENCIA DEL MERCADO DEL SUELO E IMPUESTO AL AUMENTO DE VALOR POR AMPLIACIÓN DEL LÍMITE URBANO",
       "vigencia_actual": {
         "desde": "2026-02-16",
@@ -2898,6 +2967,12 @@
         "descripcion": "Última Versión"
       },
       "vigencias": [
+        {
+          "desde": "2018-08-16",
+          "hasta": "",
+          "tipo": "3",
+          "descripcion": "Única"
+        },
         {
           "desde": "2018-08-16",
           "hasta": "2026-02-15",
@@ -2918,13 +2993,14 @@
         "presente": false,
         "alertas": []
       },
-      "huella": "601e607ef5426d6951f0af3290deb3fc0682c4784327f18a342f264c703a6c11",
+      "huella": "82463c0375aaae14c1eb4306b5e6f9c7a1809ab2d1d357a546164b32f5a87406",
       "estado": {
         "derogado": false,
         "derogacion_tacita": [],
         "alertas": []
       },
-      "version_vigente_indicada": ""
+      "version_vigente_indicada": "",
+      "id_parte": "9886745,9886759,9886760"
     },
     "128563": {
       "id_norma": "128563",
@@ -3120,6 +3196,277 @@
         "alertas": []
       },
       "version_vigente_indicada": ""
+    },
+    "1031504": {
+      "id_norma": "1031504",
+      "marcador": "Ley N.º 20.544, que regula el tratamiento tributario de los instrumentos derivados.",
+      "titulo_bcn": "REGULA EL TRATAMIENTO TRIBUTARIO DE LOS INSTRUMENTOS DERIVADOS",
+      "vigencia_actual": {
+        "desde": "2020-03-01",
+        "hasta": "",
+        "tipo": "2",
+        "descripcion": "Última Versión"
+      },
+      "vigencias": [
+        {
+          "desde": "2011-10-22",
+          "hasta": "2020-02-29",
+          "tipo": "0",
+          "descripcion": "Texto Original"
+        },
+        {
+          "desde": "2020-03-01",
+          "hasta": "",
+          "tipo": "2",
+          "descripcion": "Última Versión"
+        }
+      ],
+      "fecha_version": "2011-10-22",
+      "fecha_actualizacion_texto": "2011-10-22",
+      "eventos_pendientes": [],
+      "diferido": {
+        "presente": false,
+        "alertas": []
+      },
+      "huella": "4fbff3b4d4182251440350682f0e41face1dadd892a4f821547c9b90054572ca",
+      "estado": {
+        "derogado": false,
+        "derogacion_tacita": [],
+        "alertas": []
+      },
+      "version_vigente_indicada": ""
+    },
+    "1057895": {
+      "id_norma": "1057895",
+      "marcador": "Ley N.º 20.712, sobre administración de fondos de terceros y carteras individuales (Ley Única de Fondos).",
+      "titulo_bcn": "ADMINISTRACIÓN DE FONDOS DE TERCEROS Y CARTERAS INDIVIDUALES Y DEROGA LOS CUERPOS LEGALES QUE INDICA",
+      "vigencia_actual": {
+        "desde": "2025-03-26",
+        "hasta": "2222-02-01",
+        "tipo": "2",
+        "descripcion": "Última Versión"
+      },
+      "vigencias": [
+        {
+          "desde": "2014-05-01",
+          "hasta": "2016-12-31",
+          "tipo": "0",
+          "descripcion": "Texto Original"
+        },
+        {
+          "desde": "2017-01-01",
+          "hasta": "2020-02-29",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2020-03-01",
+          "hasta": "2021-09-27",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2021-09-28",
+          "hasta": "2022-03-17",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2022-03-18",
+          "hasta": "2022-06-12",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2022-06-13",
+          "hasta": "2023-08-16",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2023-08-17",
+          "hasta": "2023-12-29",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2023-12-30",
+          "hasta": "2025-03-25",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2025-03-26",
+          "hasta": "2222-02-01",
+          "tipo": "2",
+          "descripcion": "Última Versión"
+        },
+        {
+          "desde": "2222-02-02",
+          "hasta": "",
+          "tipo": "8",
+          "descripcion": "Con Vigencia Diferida por Evento"
+        }
+      ],
+      "fecha_version": "2014-01-07",
+      "fecha_actualizacion_texto": "2014-01-07",
+      "eventos_pendientes": [
+        "El artículo primero transitorio de la ley 21521, publicada el 04.01.2023, establece que las modificaciones introducidas a la presente norma, regirán a contar de la entrada en vigencia de la normativa respectiva que dicte la Comisión para el Mercado Financiero."
+      ],
+      "diferido": {
+        "presente": true,
+        "alertas": [
+          {
+            "clase": "diferido",
+            "texto": "Tiene texto diferido",
+            "mensaje": "El artículo primero transitorio de la ley 21521, publicada el 04.01.2023, establece que las modificaciones introducidas a la presente norma, regirán a contar de la entrada en vigencia de la normativa respectiva que dicte la Comisión para el Mercado Financiero."
+          }
+        ]
+      },
+      "huella": "f1ca676ae7031e4a3aa74fd9841657b0864ef918c5f8d5b3ab0d4233c24bd42d",
+      "estado": {
+        "derogado": false,
+        "derogacion_tacita": [],
+        "alertas": []
+      },
+      "version_vigente_indicada": ""
+    },
+    "1194982": {
+      "id_norma": "1194982",
+      "marcador": "Ley N.º 21.591, sobre royalty a la minería.",
+      "titulo_bcn": "LEY SOBRE ROYALTY A LA MINERÍA",
+      "vigencia_actual": {
+        "desde": "2024-01-01",
+        "hasta": "",
+        "tipo": "3",
+        "descripcion": "Única"
+      },
+      "vigencias": [
+        {
+          "desde": "2024-01-01",
+          "hasta": "",
+          "tipo": "3",
+          "descripcion": "Única"
+        }
+      ],
+      "fecha_version": "2023-08-10",
+      "fecha_actualizacion_texto": "2023-08-10",
+      "eventos_pendientes": [],
+      "diferido": {
+        "presente": false,
+        "alertas": []
+      },
+      "huella": "8a64cbd15dbf9d4faf049e38ea72f3e3c21b0dafc99c9284bd72f567d7dff755",
+      "estado": {
+        "derogado": false,
+        "derogacion_tacita": [],
+        "alertas": []
+      },
+      "version_vigente_indicada": ""
+    },
+    "1142667": {
+      "id_norma": "1142667",
+      "marcador": "Ley N.º 21.210, que moderniza la legislación tributaria. Selección: artículo vigésimo tercero, que crea la Defensoría del Contribuyente; artículo trigésimo segundo, sobre la contribución para el desarrollo regional, y disposiciones transitorias.",
+      "titulo_bcn": "MODERNIZA LA LEGISLACIÓN TRIBUTARIA",
+      "vigencia_actual": {
+        "desde": "2025-01-01",
+        "hasta": "",
+        "tipo": "2",
+        "descripcion": "Última Versión"
+      },
+      "vigencias": [
+        {
+          "desde": "2020-02-24",
+          "hasta": "",
+          "tipo": "3",
+          "descripcion": "Única"
+        },
+        {
+          "desde": "2020-02-24",
+          "hasta": "2020-09-01",
+          "tipo": "0",
+          "descripcion": "Texto Original"
+        },
+        {
+          "desde": "2020-02-24",
+          "hasta": "2024-10-31",
+          "tipo": "0",
+          "descripcion": "Texto Original"
+        },
+        {
+          "desde": "2020-09-02",
+          "hasta": "2020-12-30",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2020-12-31",
+          "hasta": "",
+          "tipo": "2",
+          "descripcion": "Última Versión"
+        },
+        {
+          "desde": "2024-11-01",
+          "hasta": "2024-12-31",
+          "tipo": "1",
+          "descripcion": "Intermedio"
+        },
+        {
+          "desde": "2025-01-01",
+          "hasta": "",
+          "tipo": "2",
+          "descripcion": "Última Versión"
+        }
+      ],
+      "fecha_version": "2020-02-24",
+      "fecha_actualizacion_texto": "2020-02-24",
+      "eventos_pendientes": [],
+      "diferido": {
+        "presente": false,
+        "alertas": []
+      },
+      "huella": "1613a2b3e3dd1019fd246e63baae63a4a65d42fa69eda7a5e91c65dc84048ff0",
+      "estado": {
+        "derogado": false,
+        "derogacion_tacita": [],
+        "alertas": []
+      },
+      "version_vigente_indicada": "",
+      "id_parte": "10103129,10103236,10103250"
+    },
+    "1229250": {
+      "id_norma": "1229250",
+      "marcador": "Ley N.º 21.850, para la reconstrucción nacional y el desarrollo económico y social. Selección: artículos 12, 13, 20, 22 y 23; artículo 26, que crea el estatuto de invariabilidad tributaria para inversionistas; artículos 27 y 34, y disposiciones transitorias.",
+      "titulo_bcn": "PARA LA RECONSTRUCCIÓN NACIONAL Y EL DESARROLLO ECONÓMICO Y SOCIAL",
+      "vigencia_actual": {
+        "desde": "2026-10-17",
+        "hasta": "",
+        "tipo": "3",
+        "descripcion": "Única"
+      },
+      "vigencias": [
+        {
+          "desde": "2026-10-17",
+          "hasta": "",
+          "tipo": "3",
+          "descripcion": "Única"
+        }
+      ],
+      "fecha_version": "2026-10-17",
+      "fecha_actualizacion_texto": "",
+      "eventos_pendientes": [],
+      "diferido": {
+        "presente": false,
+        "alertas": []
+      },
+      "huella": "58d6b95ae4ac00f2aa28d39d50c9858c9fee8a52f9b0284f888a0b61de18a477",
+      "estado": {
+        "derogado": false,
+        "derogacion_tacita": [],
+        "alertas": []
+      },
+      "version_vigente_indicada": "",
+      "id_parte": "10613931,10613932,10613939,10613941,10613942,10613945,10613946,10613953,10613954"
     }
   }
 }
