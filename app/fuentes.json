@@ -62,16 +62,29 @@
     },
     {
       "tipo": "bcn",
-      "marcador": "Ley N.º 20.322, que fortalece y perfecciona la jurisdicción tributaria y aduanera, Ley Orgánica de Tribunales Tributarios y Aduaneros.",
-      "url": "https://www.bcn.cl/leychile/navegar?idNorma=286151",
+      "marcador": "Ley N.º 20.322, que fortalece y perfecciona la jurisdicción tributaria y aduanera. Selección: artículo primero, que fija la Ley Orgánica de Tribunales Tributarios y Aduaneros; artículos octavo a undécimo, y disposiciones transitorias.",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=286151&idParte=8220330",
       "id_norma": 286151,
+      "id_parte": [
+        8220330,
+        8220366,
+        8220367,
+        8220368,
+        8220369,
+        8220371
+      ],
       "archivo": "09_ley_organica_tribunales_tributarios_aduaneros"
     },
     {
       "tipo": "bcn",
-      "marcador": "Ley N.º 21.713, que dicta normas para asegurar el cumplimiento de las obligaciones tributarias dentro del Pacto por el Crecimiento Económico, el Progreso Social y la Responsabilidad Fiscal.",
-      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1207746",
+      "marcador": "Ley N.º 21.713, que dicta normas para asegurar el cumplimiento de las obligaciones tributarias dentro del Pacto por el Crecimiento Económico, el Progreso Social y la Responsabilidad Fiscal. Selección: artículo 14, artículos transitorios y artículo final.",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1207746&idParte=10521210",
       "id_norma": 1207746,
+      "id_parte": [
+        10521210,
+        10521213,
+        10521238
+      ],
       "archivo": "10_ley_21713_cumplimiento_tributario"
     },
     {
@@ -83,9 +96,14 @@
     },
     {
       "tipo": "bcn",
-      "marcador": "Ley N.º 21.078, sobre transparencia del mercado del suelo e impuesto al aumento de valor por ampliación del límite urbano.",
-      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1115067",
+      "marcador": "Ley N.º 21.078, sobre transparencia del mercado del suelo e impuesto al aumento de valor por ampliación del límite urbano. Selección: artículo cuarto, que aprueba la Ley sobre Incrementos de Valor por Ampliaciones de los Límites Urbanos; artículo quinto, y artículo transitorio.",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1115067&idParte=9886745",
       "id_norma": 1115067,
+      "id_parte": [
+        9886745,
+        9886759,
+        9886760
+      ],
       "archivo": "12_ley_21078_transparencia_mercado_suelo"
     },
     {
@@ -111,21 +129,14 @@
     },
     {
       "tipo": "bcn",
-      "marcador": "Ley N.º 21.540, que repone el tratamiento tributario para los contratos de arrendamiento con opción de compra de bienes que impliquen una operación de financiamiento o leasing financiero.",
-      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1189043",
-      "id_norma": 1189043,
-      "archivo": "16_ley_21540_leasing_financiero"
-    },
-    {
-      "tipo": "bcn",
       "marcador": "Ley N.º 21.591, sobre royalty a la minería.",
       "url": "https://www.bcn.cl/leychile/navegar?idNorma=1194982",
       "id_norma": 1194982,
-      "archivo": "17_ley_21591_royalty_mineria"
+      "archivo": "16_ley_21591_royalty_mineria"
     },
     {
       "tipo": "bcn",
-      "marcador": "Ley N.º 21.210, que moderniza la legislación tributaria (artículos vigésimo tercero, que crea la Defensoría del Contribuyente, y trigésimo segundo, sobre la contribución para el desarrollo regional, y disposiciones transitorias).",
+      "marcador": "Ley N.º 21.210, que moderniza la legislación tributaria. Selección: artículo vigésimo tercero, que crea la Defensoría del Contribuyente; artículo trigésimo segundo, sobre la contribución para el desarrollo regional, y disposiciones transitorias.",
       "url": "https://www.bcn.cl/leychile/navegar?idNorma=1142667&idParte=10103129",
       "id_norma": 1142667,
       "id_parte": [
@@ -133,14 +144,25 @@
         10103236,
         10103250
       ],
-      "archivo": "18_ley_21210_modernizacion_tributaria"
+      "archivo": "17_ley_21210_modernizacion_tributaria"
     },
     {
       "tipo": "bcn",
-      "marcador": "Ley N.º 21.850, para la reconstrucción nacional y el desarrollo económico y social.",
-      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1229250",
+      "marcador": "Ley N.º 21.850, para la reconstrucción nacional y el desarrollo económico y social. Selección: artículos 12, 13, 20, 22 y 23; artículo 26, que crea el estatuto de invariabilidad tributaria para inversionistas; artículos 27 y 34, y disposiciones transitorias.",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1229250&idParte=10613931",
       "id_norma": 1229250,
-      "archivo": "19_ley_21850_reconstruccion_nacional"
+      "id_parte": [
+        10613931,
+        10613932,
+        10613939,
+        10613941,
+        10613942,
+        10613945,
+        10613946,
+        10613953,
+        10613954
+      ],
+      "archivo": "18_ley_21850_reconstruccion_nacional"
     }
   ]
 }

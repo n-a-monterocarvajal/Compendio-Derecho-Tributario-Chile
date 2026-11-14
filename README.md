@@ -19,23 +19,22 @@ Este repositorio revisa diariamente las versiones de sus normas y genera un nuev
 6. [Ley N.º 16.271, sobre impuesto a las herencias, asignaciones y donaciones, cuyo texto refundido fija el artículo 8 del Decreto con Fuerza de Ley N.º 1, de 2000, del Ministerio de Justicia.](https://www.bcn.cl/leychile/navegar?idNorma=172986&idParte=8720755)
 7. [Decreto Ley N.º 3.475, de 1980, del Ministerio de Hacienda, que modifica la Ley de Timbres y Estampillas contenida en el Decreto Ley N.º 619, de 1974.](https://www.bcn.cl/leychile/navegar?idNorma=7137)
 8. [Decreto con Fuerza de Ley N.º 7, de 1980, del Ministerio de Hacienda, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos y adecua disposiciones legales que señala.](https://www.bcn.cl/leychile/navegar?idNorma=3747)
-9. [Ley N.º 20.322, que fortalece y perfecciona la jurisdicción tributaria y aduanera, Ley Orgánica de Tribunales Tributarios y Aduaneros.](https://www.bcn.cl/leychile/navegar?idNorma=286151)
-10. [Ley N.º 21.713, que dicta normas para asegurar el cumplimiento de las obligaciones tributarias dentro del Pacto por el Crecimiento Económico, el Progreso Social y la Responsabilidad Fiscal.](https://www.bcn.cl/leychile/navegar?idNorma=1207746)
+9. [Ley N.º 20.322, que fortalece y perfecciona la jurisdicción tributaria y aduanera. Selección: artículo primero, que fija la Ley Orgánica de Tribunales Tributarios y Aduaneros; artículos octavo a undécimo, y disposiciones transitorias.](https://www.bcn.cl/leychile/navegar?idNorma=286151&idParte=8220330)
+10. [Ley N.º 21.713, que dicta normas para asegurar el cumplimiento de las obligaciones tributarias dentro del Pacto por el Crecimiento Económico, el Progreso Social y la Responsabilidad Fiscal. Selección: artículo 14, artículos transitorios y artículo final.](https://www.bcn.cl/leychile/navegar?idNorma=1207746&idParte=10521210)
 11. [Decreto Ley N.º 910, de 1975, del Ministerio de Hacienda, que modifica los Decretos Leyes N.os 619, 824, 825, 826, 827 y 830, y establece el crédito especial para empresas constructoras.](https://www.bcn.cl/leychile/navegar?idNorma=6399)
-12. [Ley N.º 21.078, sobre transparencia del mercado del suelo e impuesto al aumento de valor por ampliación del límite urbano.](https://www.bcn.cl/leychile/navegar?idNorma=1115067)
+12. [Ley N.º 21.078, sobre transparencia del mercado del suelo e impuesto al aumento de valor por ampliación del límite urbano. Selección: artículo cuarto, que aprueba la Ley sobre Incrementos de Valor por Ampliaciones de los Límites Urbanos; artículo quinto, y artículo transitorio.](https://www.bcn.cl/leychile/navegar?idNorma=1115067&idParte=9886745)
 13. [Decreto con Fuerza de Ley N.º 1, de 1998, del Ministerio de Hacienda, que fija el texto refundido, coordinado, sistematizado y actualizado de la Ley N.º 17.235, sobre Impuesto Territorial.](https://www.bcn.cl/leychile/navegar?idNorma=128563)
 14. [Ley N.º 20.544, que regula el tratamiento tributario de los instrumentos derivados.](https://www.bcn.cl/leychile/navegar?idNorma=1031504)
 15. [Ley N.º 20.712, sobre administración de fondos de terceros y carteras individuales (Ley Única de Fondos).](https://www.bcn.cl/leychile/navegar?idNorma=1057895)
-16. [Ley N.º 21.540, que repone el tratamiento tributario para los contratos de arrendamiento con opción de compra de bienes que impliquen una operación de financiamiento o leasing financiero.](https://www.bcn.cl/leychile/navegar?idNorma=1189043)
-17. [Ley N.º 21.591, sobre royalty a la minería.](https://www.bcn.cl/leychile/navegar?idNorma=1194982)
-18. [Ley N.º 21.210, que moderniza la legislación tributaria (artículos vigésimo tercero, que crea la Defensoría del Contribuyente, y trigésimo segundo, sobre la contribución para el desarrollo regional, y disposiciones transitorias).](https://www.bcn.cl/leychile/navegar?idNorma=1142667&idParte=10103129)
-19. [Ley N.º 21.850, para la reconstrucción nacional y el desarrollo económico y social.](https://www.bcn.cl/leychile/navegar?idNorma=1229250)
+16. [Ley N.º 21.591, sobre royalty a la minería.](https://www.bcn.cl/leychile/navegar?idNorma=1194982)
+17. [Ley N.º 21.210, que moderniza la legislación tributaria. Selección: artículo vigésimo tercero, que crea la Defensoría del Contribuyente; artículo trigésimo segundo, sobre la contribución para el desarrollo regional, y disposiciones transitorias.](https://www.bcn.cl/leychile/navegar?idNorma=1142667&idParte=10103129)
+18. [Ley N.º 21.850, para la reconstrucción nacional y el desarrollo económico y social. Selección: artículos 12, 13, 20, 22 y 23; artículo 26, que crea el estatuto de invariabilidad tributaria para inversionistas; artículos 27 y 34, y disposiciones transitorias.](https://www.bcn.cl/leychile/navegar?idNorma=1229250&idParte=10613931)
 
 *La selección de las normas está basada en los índices de las publicaciones [Compendio Tributario (Hammurabi)](https://www.editorialhammurabi.com/shop/derecho/publico/derecho-tributario/compendio-tributario-parte-i-legislacion-tributaria/) y Compendio de Leyes Tributarias, año tributario 2026-2027 ([Libromar](https://libromar.cl/derecho-tributario-y-aduanero/6218-compendio-de-leyes-tributarias-ano-tributario-2026-2027.html)).*
 
 *La Ley N.º 16.271 se incluye en el texto refundido que fija el artículo 8 del DFL N.º 1, de 2000, de Justicia, que es el que Ley Chile mantiene actualizado; el compendio descarga solo ese artículo.*
 
-*De la Ley N.º 21.210, ley modificatoria cuyas modificaciones ya están incorporadas en los textos de las normas que reforma, se incluyen solo los artículos con contenido propio y las disposiciones transitorias.*
+*De las leyes que además modifican otras normas se incluye una selección: sus artículos permanentes con contenido propio y sus disposiciones transitorias. Las modificaciones ya están incorporadas en los textos de las normas que reforman. Cada una se indica en el índice como «Selección».*
 
 ## 📄 PDF generado
 
